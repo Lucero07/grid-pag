@@ -1,0 +1,50 @@
+/*
+ * Clases reutilizables para el proyecto
+ * (Aquí pueden ir las clases de tu grid)
+ */
+
+.mb-0 {
+  margin: 0;
+}
+.m-o{
+  margin: 0;
+}
+.home{
+  padding-top: 10%;
+  margin-top: 7%;
+  background-image: url(../assets/images/bg-home.jpg);
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+.link{
+  font-weight: 400;
+  padding: 2%;
+  display: inline-block;
+}
+.logo{
+
+  width: 100%;
+}
+
+.box-services{
+  display: inline-block;
+}
+.servicio{
+  background-color:#F17C72;
+}
+.blanco{
+  color: white;
+}
+.btn-home{
+  background: #2ECC71;
+  color: #fff;
+  padding: 11px 20px;
+  border-radius: 1%;
+  text-transform:uppercase;
+  margin-top: 40%;
+  margin-bottom: 40%;
+  display: inline-block;
+  font-size: .5rem;
+}
